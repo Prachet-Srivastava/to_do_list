@@ -2,15 +2,15 @@
 
 Todoist is a task management app that allows you to organize your tasks and projects.
 
-![1](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/e82a8798-265e-42c2-9b1a-af5ba84ca8f3)
+![1](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/8efebc14-cda7-46e0-9996-729826de9b9e)
 
-![2](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/32e13d12-6198-4a7b-b662-573d9554ccd3)
+![2](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/829d2d2a-0f49-4050-97e7-e68c860a0121)
 
-![3](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/204b9e25-7ee5-4f87-abba-bee60421cbb9)
+![3](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/b9a1c638-532b-4808-9c50-3803ee5f2835)
 
-![4](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/ed3005b4-555b-4a2e-aa7c-edfdd30d8839)
+![4](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/2c11fa4f-d2eb-4193-8d49-aeb89864c2f8)
 
-![5](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/df22ffbf-9e00-425f-9527-73e8092e1409)
+![5](https://github.com/Prachet-Srivastava/to_do_list/assets/131990865/0ebb3f54-4c7d-4bf6-939d-f7abdda6760b)
 
 ## Getting Started
 
